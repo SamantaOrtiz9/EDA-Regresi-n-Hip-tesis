@@ -4,3 +4,5 @@ Este proyecto consiste en cinco etapas principales:
 3.	Construcción de un modelo de regresión lineal.
 4.	Hipótesis.
 5.	Publicación del proyecto.
+   
+Proyecto realizado para la materia de ciencia de datos
